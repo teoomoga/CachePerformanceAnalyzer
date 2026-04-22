@@ -1,0 +1,15 @@
+# Executabile C
+memtest
+cache_bench
+*.o
+
+# Java binare
+*.class
+java_src/*.class
+
+# Rezultate temporare
+results.csv
+detailed_results.csv
+
+# OS specific
+.DS_Store
